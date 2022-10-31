@@ -1,13 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0fae3de1-4835-4c03-bff0-69fe6589baea" name="Default Changelist" comment="" />
+    <list default="true" id="0fae3de1-4835-4c03-bff0-69fe6589baea" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/backend/controllers/goalController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/middleware/errorMiddleware.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/server.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="2GhziymCFzIXCZbT9u8Fv5E884w" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="foldersAlwaysOnTop" value="false" />
@@ -15,6 +24,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -29,11 +39,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666855734269</updated>
-      <workItem from="1666855735448" duration="454000" />
+      <workItem from="1666855735448" duration="2426000" />
+      <workItem from="1666942560805" duration="2416000" />
+      <workItem from="1667194822414" duration="1090000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.env" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="412" y="229" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1666856588994">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="412" y="229" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.827@0.23.1440.827" timestamp="1666856588994" />
   </component>
 </project>
